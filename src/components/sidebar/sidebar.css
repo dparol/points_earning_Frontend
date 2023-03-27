@@ -1,0 +1,31 @@
+.sidebar{
+    width: 160px;
+    padding-right: 10px;
+    background-color: rgb(214, 214, 216);
+    display: flex;
+
+}
+.sideobject{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    gap: 20px;
+}
+
+.listbar{
+    display: flex;
+    background-color: aliceblue;
+    cursor: pointer;
+    width: 100px;
+    height: 25px;
+    border: 1px solid ;
+    border-color: blue;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    font-style: normal;
+    font-size: small;
+    font-weight:bold;
+    
+}

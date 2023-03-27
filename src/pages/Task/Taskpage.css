@@ -1,0 +1,6 @@
+.adminbody{
+    width: 100%;
+    padding: 50px 25px 0px 100px;
+    min-height:calc(100vh - 210px);
+    max-height: calc(100vh - 210px);
+}
